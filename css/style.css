@@ -4,3 +4,6 @@ body {
 h1 {
   font-size: 5rem;
 }
+section {
+  background-color: pink;
+}
