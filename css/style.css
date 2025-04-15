@@ -7,3 +7,7 @@ h1 {
 section {
   background-color: pink;
 }
+ul{
+  background-color: purple;
+  margin-top: 2rem;
+}
